@@ -20,7 +20,7 @@ This project is a simple CV/Resume webpage created using HTML.
 
 ## How to Run
 1. Download or clone the repository
-2. Open the `index.html` file in any web browser
+2. Open the `cv.html` file in any web browser
 
 ## Author
 Avinash kumar
